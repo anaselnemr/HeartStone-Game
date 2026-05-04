@@ -118,4 +118,4 @@ Built for the **Object-Oriented Programming / Software Engineering** track of th
 
 ## Authors
 
-**Anas ElNemr** · **Ahmed Eltawel**
+Anas ElNemr  ·  Ahmed Eltawel
